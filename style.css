@@ -31,7 +31,7 @@ button:hover{
   border-radius: 15px;
 }
 section.home{
-  background: url("foto/jojo javier.png");
+  background: url("jojo javier.png");
   background-size:cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -80,7 +80,7 @@ section.home a{
 section.about{
   height: 700px;
   padding-top: 100px;
-  background: url("foto/c339b25561c80b9cee324f3c138262de.jpg");
+  background: url("c339b25561c80b9cee324f3c138262de.jpg");
 }
 section.about div{
   color: rgb(0, 18, 76);
@@ -120,7 +120,7 @@ section.about div{
     gap: 25px;
     justify-content: center;
     padding: 200px;
-    background: url("foto/responden.jpg");
+    background: url("responden.jpg");
     height: 650px;
   }
   button{
