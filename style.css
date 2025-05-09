@@ -81,6 +81,8 @@ section.about{
   height: 700px;
   padding-top: 100px;
   background: url("c339b25561c80b9cee324f3c138262de.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 section.about div{
   color: rgb(0, 18, 76);
